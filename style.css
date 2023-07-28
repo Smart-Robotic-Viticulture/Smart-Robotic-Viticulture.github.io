@@ -1,0 +1,18 @@
+.axis path,
+.axis line {
+  fill: none;
+	stroke: black;
+	shape-rendering: crispEdges;
+}
+.axis text {
+	font-family: sans-serif;
+	font-size: 11px;
+}
+.imageBox {
+  position: relative;
+  visibility: hidden;
+  border: solid 1px #CCC;
+  padding: 5px;
+  top: 50px;
+  right: : 50px;
+}
